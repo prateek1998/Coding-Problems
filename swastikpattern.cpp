@@ -7,6 +7,8 @@ Wap to take integer which is a odd number(n>=5) and pattern this kind of pattern
    *  *
 ****  *
 
+//created by prateek saini
+
 #include <iostream>
 using namespace std;
 int main() {
